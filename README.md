@@ -21,6 +21,7 @@ Please choose from the below menu:
 5. Dosa   Rs. 15
 
 Enter your order: 1x3 2x7 3x5
+
 Cost: Rs. 170
 
 Usecase 2:
@@ -32,5 +33,6 @@ Please choose from the below menu:
 5. Dosa   Rs. 15
 
 Enter your order: 1x3 2x7 1x5
+
 Cost: Rs. 135
 
