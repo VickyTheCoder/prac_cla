@@ -13,6 +13,8 @@ Note 1: Latest order takes precedence
 Note 2: User never gives wrong input(like 4x5, 4 not a product code)
 
 Usecase 1:
+----------
+
 Please choose from the below menu:
 1. Pongal Rs. 20
 2. Idly   Rs. 5
@@ -22,6 +24,8 @@ Enter your order: 1x3 2x7 3x5
 Cost: Rs. 170
 
 Usecase 2:
+----------
+
 Please choose from the below menu:
 1. Pongal Rs. 20
 2. Idly   Rs. 5
