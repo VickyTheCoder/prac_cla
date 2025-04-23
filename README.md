@@ -1,10 +1,14 @@
 Develop a CLA project that allows the customers to buy the below products:
+
     ProductCode ProductName ProductPrice
     1           Pongal      Rs. 20
     2           Idly        Rs. 5
     3           Dosa        Rs. 15
+    
 Order format: prd_code x count prod_code x count
+
 eg: 1x3 2x7 3x5
+
 3 Pongal + 7 Idly + 5 Dosa => 170(cost) 
 
 Note 1: Latest order takes precedence
